@@ -1,3 +1,2 @@
-export default () => (
-    <div>next hello word</div>
-)
+// 最简单的nextjs
+export default () => <div>Welcome to next.js!</div>

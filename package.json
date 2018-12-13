@@ -1,0 +1,18 @@
+{
+  "name": "next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/FrameworkProgram/nextjsSSR.git",
+  "author": "dengmingshunag <dengmingshuang@gaodun.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
